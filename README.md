@@ -1,4 +1,4 @@
-# Med-R1 Reasoning Trace Filtering & Diversity Sampling
+# MVQA1k Dataset
 
 This repository contains a reproducible pipeline for generating, filtering, and sampling medical visual question answering (VQA) data using the Med-R1 model and MiniGPT-Med. The output is a curated dataset of 1,000 diverse, high-quality image-question-answer-reasoning samples, designed to support downstream fine-tuning and evaluation of clinical multimodal models such as LLava-Med.
 
