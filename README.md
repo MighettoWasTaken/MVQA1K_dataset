@@ -49,7 +49,7 @@ This work serves as an empirical testbed for the ideas presented in recent resea
 |----------------------------------|------|
 | Filtered dataset (11k hard cases)   | [Google Drive](https://drive.google.com/file/d/1ejXK73W0Siym0-wsj_M5XjPfD1OcaPC5/view?usp=drive_link)  
 | Final dataset (1k sampled examples) | [Google Drive](https://drive.google.com/file/d/1WY51Yg18F1J8gD8FUlpnP72mSh3qXbxH/view?usp=sharing)  
-| Final images ZIP (1k matched)      | **[TODO: Add link here once uploaded]**  
+| Final images ZIP (1k matched)      | [Google Drive](https://drive.google.com/file/d/11RpwkqAfg51pK3mHIyrJa0I-mX689X03/view?usp=sharing)
 | `traced_partial.csv`              | Raw model outputs (including failed or incorrect predictions)  
 | `final1k.csv`                     | Final filtered and sampled dataset with reasoning traces  
 
