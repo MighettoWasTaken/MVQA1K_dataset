@@ -32,14 +32,16 @@ This work serves as an empirical testbed for the ideas presented in recent resea
    - Image vectors are down-weighted to prioritize semantic question diversity  
    - K-means used to cluster and sample 1,000 representative examples
 
-5. **Wait Token Augmentation**  
+## Goals: 
+
+5. **Augment Llava-Med to generate wait tokens**  
    - Med-R1 traces are reformatted with wait-token prompting for LLava-Med compatibility
 
 6. **Fine-tuning LLava-Med**  
    - Fine-tuned on the curated dataset to evaluate improvements in reasoning performance
 
 7. **Performance Comparison**  
-   - Evaluate performance improvements using the methodology and baseline comparisons described in **M1**
+   - Evaluate performance improvements using the methodology 
 
 ## Data and Outputs
 
