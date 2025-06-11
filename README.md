@@ -52,5 +52,3 @@ This work serves as an empirical testbed for the ideas presented in recent resea
 | Final images ZIP (1k matched)      | [Google Drive](https://drive.google.com/file/d/11RpwkqAfg51pK3mHIyrJa0I-mX689X03/view?usp=sharing)
 | `traced_partial.csv`              | Raw model outputs (including failed or incorrect predictions)  
 | `final1k.csv`                     | Final filtered and sampled dataset with reasoning traces  
-
-## Repository Contents
